@@ -1,6 +1,6 @@
 {
   "name": "dev.3sl.thirdparty.dearimgui",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "displayName": "Dear ImGui",
   "description": "ImGui.NET/cimgui Dear ImGui bindings",
   "unity": "2021.3",
