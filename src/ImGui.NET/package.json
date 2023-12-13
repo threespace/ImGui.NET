@@ -1,0 +1,18 @@
+{
+  "name": "dev.3sl.thirdparty.dearimgui",
+  "version": "0.3.0",
+  "displayName": "Dear ImGui",
+  "description": "ImGui.NET/cimgui Dear ImGui bindings",
+  "unity": "2021.3",
+  "keywords": [],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/threespace/ImGui.NET.git"
+  },
+  "author": {
+    "name": "Three Space Lab Team",
+    "email": "three@threespacelab.com",
+    "url": "https://threespacelab.com/"
+  }
+}
